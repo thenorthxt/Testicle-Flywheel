@@ -1,0 +1,21 @@
+
+---
+
+## 4) .gitignore (simple et efficace)
+
+```gitignore
+# OS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Builds
+dist/
+build/
