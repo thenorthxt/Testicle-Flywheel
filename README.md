@@ -1,5 +1,6 @@
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/428b608a-61ab-4d99-819e-f3075036e7be" />
 
+CA 91HM7c5T7dK2wPQhwmRJNvZNc3kxgrrLRN3mW1AApump
 
 # Testicle-Flywheel
 A memetic flywheel experiment where visibility compounds into liquidity and momentum.
